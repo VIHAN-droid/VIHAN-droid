@@ -6,11 +6,11 @@
 ### Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vihan-ahl" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Vihan_Ahlawat/" target="_blank"><img src="https://www.vectorlogo.zone/logos/leetcode/leetcode-icon.svg" width="40" height="40" alt="LeetCode"/></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/vihanahlawat" target="_blank"><img src="https://codeforces.org/s/0/favicon-96x96.png" width="40" height="40" alt="Codeforces"/></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vihan_ahlawat" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-chef-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944844.png" width="40" height="40" alt="CodeChef"/></a>&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/vihanahlzxmu" target="_blank"><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" height="40" alt="GeeksforGeeks"/></a>
+  <a href="https://linkedin.com/in/vihan-ahl" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Vihan_Ahlawat/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode"/></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/vihanahlawat" target="_blank"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="40" height="40" alt="Codeforces"/></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/vihan_ahlawat" target="_blank"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="40" height="40" alt="CodeChef"/></a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/vihanahlzxmu" target="_blank"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="40" height="40" alt="GeeksforGeeks"/></a>
 </p>
 
 ### Languages and Tools
