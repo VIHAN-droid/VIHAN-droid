@@ -1,16 +1,16 @@
 <h1 align="center">Vihan Ahlawat</h1>
-<p align="center">CSE @ IIIT Delhi</p>
+<p align="center">3rd Year CSE @ IIIT Delhi</p>
 
 ---
 
 ### Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vihan-ahl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Vihan_Ahlawat/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40" alt="LeetCode" style="filter: invert(70%) sepia(90%) saturate(1000%) hue-rotate(360deg);"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vihan-ahl" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Vihan_Ahlawat/" target="_blank"><img src="https://www.vectorlogo.zone/logos/leetcode/leetcode-icon.svg" width="40" height="40" alt="LeetCode"/></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/vihanahlawat" target="_blank"><img src="https://codeforces.org/s/0/favicon-96x96.png" width="40" height="40" alt="Codeforces"/></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vihan_ahlawat" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="40" height="40" alt="CodeChef"/></a>&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/vihanahlzxmu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gfg/gfg-original.svg" width="40" height="40" alt="GeeksforGeeks"/></a>
+  <a href="https://www.codechef.com/users/vihan_ahlawat" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-chef-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944844.png" width="40" height="40" alt="CodeChef"/></a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/vihanahlzxmu" target="_blank"><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" height="40" alt="GeeksforGeeks"/></a>
 </p>
 
 ### Languages and Tools
@@ -34,14 +34,8 @@
 
 ### About Me
 
-Second-year B.Tech student at IIIT Delhi with a strong foundation in algorithms, operating systems, and statistical machine learning. I enjoy working close to the metal — schedulers, concurrency, database internals — and equally enjoy building on top of modern AI stacks like LangChain, LangGraph, and RAG pipelines.
+Third-year B.Tech student at IIIT Delhi with a strong foundation in algorithms, operating systems, and statistical machine learning. I enjoy working close to the metal — schedulers, concurrency, database internals — and equally enjoy building on top of modern AI stacks like LangChain, LangGraph, and RAG pipelines.
 
 Recent work spans a Mini OS extending EGOS with an MLFQ scheduler and a Unix-like shell, a concurrent ERP system in Java with MVC and RBAC, a full-stack digital wallet with SQL triggers and row-level locking, and an agentic content-generation pipeline built during my Gen-AI internship at Tecorb Technologies.
 
 Interested in systems engineering, backend development, and research-driven applications of AI.
-
-### Achievements
-
-- AIR 12,599 in JEE Main 2024 — top 0.8% of 1.4M+ candidates
-- Rank 469, Goldman Sachs India Hackathon (GISH) 2026 — Round 1, 15,000+ participants
-- Top 10% (center level), NSEC 2023
